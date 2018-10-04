@@ -1,4 +1,4 @@
-#Modified Unet For Kaggle Salt Detection Challenge.
+# Modified Unet For Kaggle Salt Detection Challenge.
 
 These notebooks are meant to run on google colab gpu runtime
 along with google drive api.
